@@ -1,0 +1,6 @@
+{
+  "name": "Buy Safely",
+  "description": "African Social Commerce Escrow & Transaction Protection Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
